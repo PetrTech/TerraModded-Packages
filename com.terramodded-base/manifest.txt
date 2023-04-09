@@ -1,5 +1,5 @@
 --DATA:com.terramodded-base;https://github.com/PetrTech/TerraModded-Packages/tree/main/com.terramodded-base
 --PUBLIC
-Item Templates; 09/04/2023; 1.12kB; /ItemTemplates; v1
+Item Templates;09/04/2023;1.12kB;/ItemTemplates;v1
 --EXPERIMENTAL
-Hello World; 09/04/2023; 58.99kB; /HelloWorld; v1
+Hello World;09/04/2023;58.99kB;/HelloWorld;v1
