@@ -1,4 +1,4 @@
---DATA:com.terramodded-base;https://github.com/PetrTech/TerraModded-Packages/tree/main/com.terramodded-base
+--DATA:com.terramodded-base;https://github.com/PetrTech/TerraModded-Packages/raw/main/com.terramodded-base/
 --PUBLIC
 Item Templates;09/04/2023;1.12kB;/ItemTemplates;v1
 --EXPERIMENTAL
